@@ -1,0 +1,14 @@
+# Prevents publishing API keys or other credentials.
+*.env
+
+# Ignore standard virtual environment directories.
+venv/
+.venv/
+
+# Ignore bytecode and temporary files.
+__pycache__/
+*.pyc
+*.egg-info/
+
+# Ignore the entire directory containing downloaded course materials.
+DLSU_Canvas_Archive/
