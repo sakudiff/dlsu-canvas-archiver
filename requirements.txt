@@ -1,0 +1,8 @@
+canvasapi==3.3.0
+pathvalidate==3.2.1
+tqdm==4.66.1
+requests==2.31.0
+python-dotenv==1.0.1
+weasyprint==61.2
+pypandoc==1.16.2
+pydyf==0.10.0
