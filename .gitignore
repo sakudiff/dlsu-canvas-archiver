@@ -12,3 +12,6 @@ __pycache__/
 
 # Ignore the entire directory containing downloaded course materials.
 DLSU_Canvas_Archive/
+
+.ds_Store
+Thumbs.db
